@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="title_activity_three_by_three">Tic Tac Toe (3 x 3)</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_five_by_five">Tic Tac Toe (5 x 5)</string>
+
+    <string name="title_activity_three_bythree__computer">Tic Tac Toe (3 x 3) - Computer</string>
+
+    <string name="title_activity_three_by_three__human">Tic Tac Toe (3 x 3) - Human</string>
+
+    <string name="title_activity_five_by_five__computer">Tic Tac Toe (5 x 5) - Computer</string>
+
+    <string name="title_activity_five_by_five__human">Tic Tac Toe (5 x 5) - Human</string>
+</resources>

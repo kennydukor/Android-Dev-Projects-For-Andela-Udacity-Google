@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryLight">#ECEFF1</color>
+    <color name="colorAccent">#E03D58</color>
+    <color name="colorGrey">#3c3c3c</color>
+
+
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name="colorYellow">#F9F398</color>
+
+    <color name="textColor">@android:color/white</color>
+    <color name="colorSplashScreen">@android:color/white</color>
+
+
+    <color name="refresh_progress_1">#00B0FF</color>
+    <color name="refresh_progress_2">#e040fb</color>
+    <color name="refresh_progress_3">#FF4081</color>
+</resources>
